@@ -1,0 +1,39 @@
+body{
+   background-color: skyblue;
+}
+.container{
+    background-color: blueviolet;
+    border: solid 1px black;
+    border-radius: 20px;
+    height: 100%;
+    box-shadow: 5px 8px 5px black;
+    width: 30%;
+    margin-left: 30%;
+    margin-top: 10%;
+    display: grid;
+    gap: 15px;
+    padding: 5%;
+    
+}
+
+.inputField{
+    border: black 1px solid;
+    width: 50%;
+    height: 100%;
+    padding: 0.25%;
+    margin-left: 25%;
+    border-radius: 5px;
+}
+
+.button{
+    height: 200%;
+    width: 30%;
+    margin-left: 35%;
+    border-radius: 10px;
+    border: none;
+    background-color: green;
+    color: black;
+}
+.title{
+    text-align: center;
+}
